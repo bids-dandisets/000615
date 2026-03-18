@@ -1,0 +1,17 @@
+{
+    "Name": "A Novel Neuropathic Pain Treatment: Achieving Neuronal Inhibition with a Splti Ring Resonator",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Thesis defense data set consisting of extracellular action potentials and postsynaptic potentials captured in Procambarus clarkii.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
