@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Thesis defense data set consisting of extracellular action potentials and postsynaptic potentials captured in Procambarus clarkii.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Cherepashensky, Mark"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
